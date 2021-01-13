@@ -1,0 +1,15 @@
+BOOK--:Harry_Potter_and_the_Goblet_of_Fire
+AUTHOR:J.K.Rowling
+BOOKID:38
+GENRE-:Fiction
+GENRE-:Fantasy
+GENRE-:Young_Adult
+4.56
+
+BOOK--:Harry_Potter_and_Order_of_the_Phoenix
+AUTHOR:J.K.Rowling
+BOOKID:39
+GENRE-:Fiction
+GENRE-:Fantasy
+GENRE-:Young_Adult
+4.50

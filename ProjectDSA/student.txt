@@ -1,0 +1,14 @@
+Usama
+1234
+Male
+21
+
+Zain
+1222
+Male
+25
+
+Sarah
+1562
+Female
+22

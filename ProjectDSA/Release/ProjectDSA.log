@@ -1,0 +1,38 @@
+﻿  Button.cpp
+  Readers.cpp
+  Source.cpp
+A:\Project\ProjectDSA\Button.h(49,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\Project\ProjectDSA\Button.h(49,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\Project\ProjectDSA\Button.h(66,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+A:\Project\ProjectDSA\Button.h(67,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Linklist.h
+Linklist.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Readers.obj
+Linklist.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Readers.obj
+Linklist.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+Readers.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Readers.obj
+Readers.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Readers.obj
+Source.obj : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Readers.obj
+Source.obj : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Readers.obj
+Source.obj : error LNK2005: "int Logincounter" (?Logincounter@@3HA) already defined in Source.obj
+Source.obj : error LNK2005: "bool bookcompleted" (?bookcompleted@@3_NA) already defined in Source.obj
+Source.obj : error LNK2005: "int readercounter" (?readercounter@@3HA) already defined in Source.obj
+Source.obj : error LNK2005: "int Aage" (?Aage@@3HA) already defined in Source.obj
+Source.obj : error LNK2005: "int ScreenCounter" (?ScreenCounter@@3HA) already defined in Source.obj
+Source.obj : error LNK2005: "bool run" (?run@@3_NA) already defined in Source.obj
+Source.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > Ggender" (?Ggender@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Source.obj
+Source.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * markgenre" (?markgenre@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Source.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+Linklist.obj : error LNK2001: unresolved external symbol __imp___calloc_dbg
+Readers.obj : error LNK2001: unresolved external symbol __imp___calloc_dbg
+Source.obj : error LNK2001: unresolved external symbol __imp___calloc_dbg
+Source.obj : error LNK2001: unresolved external symbol __imp___invalid_parameter
+Source.obj : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+A:\Project\ProjectDSA\Release\ProjectDSA.exe : fatal error LNK1120: 3 unresolved externals

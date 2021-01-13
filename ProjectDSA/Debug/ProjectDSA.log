@@ -1,0 +1,21 @@
+﻿  Button.cpp
+  Readers.cpp
+  Source.cpp
+A:\Project\ProjectDSA\Button.h(46,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\Project\ProjectDSA\Button.h(46,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+A:\Project\ProjectDSA\Button.h(63,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+A:\Project\ProjectDSA\Button.h(64,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Linklist.h
+  Generating Code...
+Debug\Linklist.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Readers.obj : warning LNK4042: object specified more than once; extras ignored
+Debug\Source.obj : warning LNK4042: object specified more than once; extras ignored
+  ProjectDSA.vcxproj -> A:\Project\ProjectDSA\Debug\LetsRead.exe

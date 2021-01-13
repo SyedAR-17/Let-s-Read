@@ -1,0 +1,15 @@
+BOOK--:Eleanor_Park                                         
+AUTHOR:Rainbow_Rowell
+BOOKID:31
+GENRE-:Novel
+GENRE-:Romance
+GENRE-:Young_Adult
+4
+
+BOOK--:The_Book_Thief                                         
+AUTHOR:Markus_Zusak
+BOOKID:32
+GENRE-:Novel
+GENRE-:Fiction
+GENRE-:Adventure
+4.4
